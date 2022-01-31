@@ -1,0 +1,14 @@
+C:\Users\Monster\Desktop\c# otomasyonlar\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+C:\Users\Monster\Desktop\c# otomasyonlar\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+C:\Users\Monster\Desktop\c# otomasyonlar\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+C:\Users\Monster\Desktop\c# otomasyonlar\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\c# otomasyonlar\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form1.resources
+C:\Users\Monster\Desktop\c# otomasyonlar\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\Monster\Desktop\c# otomasyonlar\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\c# otomasyonlar\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\c# otomasyonlar\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+C:\Users\Monster\Desktop\c# otomasyonlar\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
+C:\Users\Monster\Desktop\c# otomasyonlar\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form2.resources
+C:\Users\Monster\Desktop\c# otomasyonlar\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form3.resources
+C:\Users\Monster\Desktop\c# otomasyonlar\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form4.resources
+C:\Users\Monster\Desktop\c# otomasyonlar\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form5.resources

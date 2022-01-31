@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinema Otomasyonu", "Sinema Otomasyonu\Sinema Otomasyonu.csproj", "{BC5BC2E9-C759-4100-BAD3-8E0A9172CE65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5BC2E9-C759-4100-BAD3-8E0A9172CE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5BC2E9-C759-4100-BAD3-8E0A9172CE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5BC2E9-C759-4100-BAD3-8E0A9172CE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5BC2E9-C759-4100-BAD3-8E0A9172CE65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1712A18E-EE2D-42E3-A3D0-61E75A50B79B}
+	EndGlobalSection
+EndGlobal
